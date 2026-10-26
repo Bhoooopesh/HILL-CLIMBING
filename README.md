@@ -63,6 +63,8 @@ print("Solution:", s, "Score: 0")
 print("Target String Found!")
 ```
 <h2>Output:</h2>
+<img width="546" height="156" alt="image" src="https://github.com/user-attachments/assets/1a65f215-17dc-4750-bd36-54ad97c54782" />
+
 <img width="537" height="335" alt="image" src="https://github.com/user-attachments/assets/1337ae69-4f04-4ab8-9bcd-98695714a48d" />
 
 <hr>
