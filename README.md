@@ -1,6 +1,6 @@
 <h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
-<h3>Name:             </h3>
-<h3>Register Number:             </h3>
+<h3>Name: Bhoopesh P            </h3>
+<h3>Register Number: 212224110013          </h3>
 <h3>Date: 26 october 2026
 
 <H3>Aim:</H3>
